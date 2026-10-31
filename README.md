@@ -12,4 +12,4 @@ HTML | CSS | SASS
 
 ### 🎬 Project Demo
 
-![Project Demo](./screenshots/demo.gif)
+![Project Demo](./screenshot.gif)
